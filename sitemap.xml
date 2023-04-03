@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://ibit-mc-server.github.io/BitDocs/</loc>
+         <lastmod>2023-04-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ibit-mc-server.github.io/BitDocs/test/</loc>
+         <lastmod>2023-04-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ibit-mc-server.github.io/BitDocs/guides/about/</loc>
+         <lastmod>2023-04-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ibit-mc-server.github.io/BitDocs/guides/cripto/</loc>
+         <lastmod>2023-04-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ibit-mc-server.github.io/BitDocs/guides/mining/</loc>
+         <lastmod>2023-04-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ibit-mc-server.github.io/BitDocs/guides/terminals/</loc>
+         <lastmod>2023-04-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
